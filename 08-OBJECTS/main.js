@@ -20,3 +20,28 @@ for (let objectKeys in character) {
 	};
 
 	giveItem();
+
+	// Create a shop
+
+let shop = {
+		Gun = {
+		title : "Bulldoll",
+		physic : 100,
+		magic : 20,
+		minLevel : 10,
+		available : true,
+		}
+
+		Arc = {
+			title : "BurningLine",
+			physic : 40,
+			magic : 50,
+			minLevel : 0,
+			available : true,
+		}
+
+		Sword = {
+			title : "TheZipKiller"
+		}
+
+} 
