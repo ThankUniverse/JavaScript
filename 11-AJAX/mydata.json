@@ -1,0 +1,6 @@
+// mydata.json
+{
+  "name" : "teddy",
+  "children" : ["Emmanuelle","Naomi"],
+  "Age" : 29
+}
